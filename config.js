@@ -62,8 +62,8 @@ global.api_smd = "https://api-smd.onrender.com" //  || "https://api-smd-1.vercel
 global.scan = "https://suhail-md-vtsf.onrender.com";
 
 
-global.SESSION_ID = process.env.SESSION_ID ||  ""  // PUT your SESSION_ID 
-
+global.SESSION_ID = process.env.SESSION_ID ||  ""  //
+GuruBot~GQtMAh2M
 
 module.exports = {
 
@@ -76,7 +76,7 @@ module.exports = {
  
   author : process.env.PACK_AUTHER|| "",
   packname: process.env.PACK_NAME || "",
-  botname : process.env.BOT_NAME  || "sᴜʜᴀɪʟ-ᴍᴅ",
+  botname : process.env.BOT_NAME  || "DON-ᴍᴅ",
   ownername:process.env.OWNER_NAME|| "It'x Suhail",
 
 
